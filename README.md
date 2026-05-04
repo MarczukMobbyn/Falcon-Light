@@ -29,7 +29,7 @@ A physics-based 3D arcade game developed in Unity where the player controls a ro
 ## How to Run
 
 1. Clone this repository.
-2. Open the project in Unity (Version 2021.3+).
+2. Open the project in Unity (Version 6000.0.28f1).
 3. Open `Assets/Scenes/Over.unity`.
 4. Press Play.
 
